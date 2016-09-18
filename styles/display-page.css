@@ -1,0 +1,46 @@
+main {
+	padding-top: 60px;
+}
+
+.container-parent {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 500px;
+	font-size: 0px;
+}
+
+.container {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.container-one {
+	background-color: green;
+	width: 50%;
+	height: 200px;
+}
+
+.container-two {
+	background-color: blue;
+	width: 50%;
+	height: 200px;
+}
+
+.container-three {
+	background-color: grey;
+	width: 33.33%;
+	height: 300px;
+}
+
+.container-four {
+	background-color: black;
+	width: 33.33%;
+	height: 300px;
+}
+
+.container-five {
+	background-color: orange;
+	width: 33.33%;
+	height: 300px;
+}
